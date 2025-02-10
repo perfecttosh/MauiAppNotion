@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\\u0418\u0421\u041F.22\u0410\\MauiApp6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE6BD65-0F07-43E5-A6DD-B733498EEFAF}|MauiApp6.csproj|c:\\users\\admin\\documents\\\u0438\u0441\u043F.22\u0430\\mauiapp6\\notionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6AE6BD65-0F07-43E5-A6DD-B733498EEFAF}|MauiApp6.csproj|solutionrelative:notionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE6BD65-0F07-43E5-A6DD-B733498EEFAF}|MauiApp6.csproj|c:\\users\\admin\\documents\\\u0438\u0441\u043F.22\u0430\\mauiapp6\\notionlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6AE6BD65-0F07-43E5-A6DD-B733498EEFAF}|MauiApp6.csproj|solutionrelative:notionlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE6BD65-0F07-43E5-A6DD-B733498EEFAF}|MauiApp6.csproj|c:\\users\\admin\\documents\\\u0438\u0441\u043F.22\u0430\\mauiapp6\\notionlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE6BD65-0F07-43E5-A6DD-B733498EEFAF}|MauiApp6.csproj|solutionrelative:notionlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE6BD65-0F07-43E5-A6DD-B733498EEFAF}|MauiApp6.csproj|c:\\users\\admin\\documents\\\u0438\u0441\u043F.22\u0430\\mauiapp6\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE6BD65-0F07-43E5-A6DD-B733498EEFAF}|MauiApp6.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE6BD65-0F07-43E5-A6DD-B733498EEFAF}|MauiApp6.csproj|c:\\users\\admin\\documents\\\u0438\u0441\u043F.22\u0430\\mauiapp6\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6AE6BD65-0F07-43E5-A6DD-B733498EEFAF}|MauiApp6.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE6BD65-0F07-43E5-A6DD-B733498EEFAF}|MauiApp6.csproj|c:\\users\\admin\\documents\\\u0438\u0441\u043F.22\u0430\\mauiapp6\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6AE6BD65-0F07-43E5-A6DD-B733498EEFAF}|MauiApp6.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE6BD65-0F07-43E5-A6DD-B733498EEFAF}|MauiApp6.csproj|c:\\users\\admin\\documents\\\u0438\u0441\u043F.22\u0430\\mauiapp6\\viewmodels\\notionlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE6BD65-0F07-43E5-A6DD-B733498EEFAF}|MauiApp6.csproj|solutionrelative:viewmodels\\notionlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE6BD65-0F07-43E5-A6DD-B733498EEFAF}|MauiApp6.csproj|c:\\users\\admin\\documents\\\u0438\u0441\u043F.22\u0430\\mauiapp6\\notionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE6BD65-0F07-43E5-A6DD-B733498EEFAF}|MauiApp6.csproj|solutionrelative:notionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE6BD65-0F07-43E5-A6DD-B733498EEFAF}|MauiApp6.csproj|c:\\users\\admin\\documents\\\u0438\u0441\u043F.22\u0430\\mauiapp6\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE6BD65-0F07-43E5-A6DD-B733498EEFAF}|MauiApp6.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE6BD65-0F07-43E5-A6DD-B733498EEFAF}|MauiApp6.csproj|c:\\users\\admin\\documents\\\u0438\u0441\u043F.22\u0430\\mauiapp6\\viewmodels\\notionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE6BD65-0F07-43E5-A6DD-B733498EEFAF}|MauiApp6.csproj|solutionrelative:viewmodels\\notionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE6BD65-0F07-43E5-A6DD-B733498EEFAF}|MauiApp6.csproj|c:\\users\\admin\\documents\\\u0438\u0441\u043F.22\u0430\\mauiapp6\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE6BD65-0F07-43E5-A6DD-B733498EEFAF}|MauiApp6.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE6BD65-0F07-43E5-A6DD-B733498EEFAF}|MauiApp6.csproj|c:\\users\\admin\\documents\\\u0438\u0441\u043F.22\u0430\\mauiapp6\\models\\notionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE6BD65-0F07-43E5-A6DD-B733498EEFAF}|MauiApp6.csproj|solutionrelative:models\\notionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE6BD65-0F07-43E5-A6DD-B733498EEFAF}|MauiApp6.csproj|c:\\users\\admin\\documents\\\u0438\u0441\u043F.22\u0430\\mauiapp6\\platforms\\android\\resources\\values\\colors.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6AE6BD65-0F07-43E5-A6DD-B733498EEFAF}|MauiApp6.csproj|solutionrelative:platforms\\android\\resources\\values\\colors.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE6BD65-0F07-43E5-A6DD-B733498EEFAF}|MauiApp6.csproj|c:\\users\\admin\\documents\\\u0438\u0441\u043F.22\u0430\\mauiapp6\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{6AE6BD65-0F07-43E5-A6DD-B733498EEFAF}|MauiApp6.csproj|solutionrelative:platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NotionModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\\u0418\u0421\u041F.22\u0410\\MauiApp6\\Models\\NotionModel.cs",
+              "RelativeDocumentMoniker": "Models\\NotionModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\\u0418\u0421\u041F.22\u0410\\MauiApp6\\Models\\NotionModel.cs",
+              "RelativeToolTip": "Models\\NotionModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T09:07:08.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\\u0418\u0421\u041F.22\u0410\\MauiApp6\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\admin\\Documents\\\u0418\u0421\u041F.22\u0410\\MauiApp6\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-10T10:09:46.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\\u0418\u0421\u041F.22\u0410\\MauiApp6\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\\u0418\u0421\u041F.22\u0410\\MauiApp6\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T10:09:47.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotionListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\\u0418\u0421\u041F.22\u0410\\MauiApp6\\NotionListPage.xaml.cs",
+              "RelativeDocumentMoniker": "NotionListPage.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\\u0418\u0421\u041F.22\u0410\\MauiApp6\\NotionListPage.xaml.cs",
+              "RelativeToolTip": "NotionListPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T10:09:39.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotionListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\\u0418\u0421\u041F.22\u0410\\MauiApp6\\NotionListPage.xaml",
+              "RelativeDocumentMoniker": "NotionListPage.xaml",
+              "ToolTip": "C:\\Users\\admin\\Documents\\\u0418\u0421\u041F.22\u0410\\MauiApp6\\NotionListPage.xaml",
+              "RelativeToolTip": "NotionListPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-10T10:09:34.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\\u0418\u0421\u041F.22\u0410\\MauiApp6\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\\u0418\u0421\u041F.22\u0410\\MauiApp6\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T10:19:43.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\\u0418\u0421\u041F.22\u0410\\MauiApp6\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\admin\\Documents\\\u0418\u0421\u041F.22\u0410\\MauiApp6\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-10T10:21:31.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotionPage.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\\u0418\u0421\u041F.22\u0410\\MauiApp6\\NotionPage.xaml",
+              "RelativeDocumentMoniker": "NotionPage.xaml",
+              "ToolTip": "C:\\Users\\admin\\Documents\\\u0418\u0421\u041F.22\u0410\\MauiApp6\\NotionPage.xaml",
+              "RelativeToolTip": "NotionPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-08T09:46:02.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotionPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\\u0418\u0421\u041F.22\u0410\\MauiApp6\\NotionPage.xaml.cs",
+              "RelativeDocumentMoniker": "NotionPage.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\\u0418\u0421\u041F.22\u0410\\MauiApp6\\NotionPage.xaml.cs",
+              "RelativeToolTip": "NotionPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T10:15:45.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotionListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\\u0418\u0421\u041F.22\u0410\\MauiApp6\\ViewModels\\NotionListViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\NotionListViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\\u0418\u0421\u041F.22\u0410\\MauiApp6\\ViewModels\\NotionListViewModel.cs",
+              "RelativeToolTip": "ViewModels\\NotionListViewModel.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAWwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T09:16:55.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NotionViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\\u0418\u0421\u041F.22\u0410\\MauiApp6\\ViewModels\\NotionViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\NotionViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\\u0418\u0421\u041F.22\u0410\\MauiApp6\\ViewModels\\NotionViewModel.cs",
+              "RelativeToolTip": "ViewModels\\NotionViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T10:08:36.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\\u0418\u0421\u041F.22\u0410\\MauiApp6\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\\u0418\u0421\u041F.22\u0410\\MauiApp6\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T09:24:49.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "colors.xml",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\\u0418\u0421\u041F.22\u0410\\MauiApp6\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "RelativeDocumentMoniker": "Platforms\\Android\\Resources\\values\\colors.xml",
+              "ToolTip": "C:\\Users\\admin\\Documents\\\u0418\u0421\u041F.22\u0410\\MauiApp6\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "RelativeToolTip": "Platforms\\Android\\Resources\\values\\colors.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-02-08T08:44:42.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\\u0418\u0421\u041F.22\u0410\\MauiApp6\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\admin\\Documents\\\u0418\u0421\u041F.22\u0410\\MauiApp6\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "Platforms\\Android\\AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-02-08T08:44:36.898Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
